@@ -1,0 +1,22 @@
+.dark {
+    background-color: #292e42 !important;
+    color: white !important;
+}
+
+.dark-pill {
+    background-color: white !important;
+    color: #292e42 !important;
+}
+
+.dark-icon {
+    color: white !important;
+    fill: white !important;
+}
+
+.dark-title {
+    color: white !important;
+}
+
+.dark-card > p {
+    color: #333 !important;
+}
